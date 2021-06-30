@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<html>
+ <body>
+  <h1>Look at my awesome pet:</h1>
+  <img class=picture src="https://comiczone.ru/wp-content/uploads/2021/01/224fcd588530d39bc107359000e8506e96e5bfcd.png">
+  <div name=about>
+    <h3 id=pet-name>Котэ</h3>
+      <p data-type=description> Жирный кот</p>
+  </div>
+ </body>
+</html>
